@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahbaz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">As a recent high school graduate with a passion for the software industry and robotics, I am eager to embark on a career that merges cutting-edge technology with innovative solutions. My journey into robotics began at the age of 14 and has been a passion ever since. In addition to this, I manage a YouTube Channel with a community of over 3.5K subscribers. My academic achievements and extracurricular activities have honed my problem-solving skills and fostered a creative approach to challenges in the tech field.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazcoder1&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazcoder1" /> </p>
 
