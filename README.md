@@ -41,6 +41,6 @@ I'm a first-year B.Tech student passionate about software development and artifi
 
 ## 📫 Let's Connect
 - YouTube: [My Channel](https://www.youtube.com/@SketchwareExpert)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/shahbazhashmiansari)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/shahbaz-hashmi-ansari/)
 
 *Innovating at the intersection of technology and creativity* 🚀
