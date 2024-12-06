@@ -1,4 +1,9 @@
 # Hi there! I'm Shahbaz 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ## 🎓 About Me
 I'm a first-year B.Tech student passionate about software development and artificial intelligence. With a keen interest in technological innovation, I specialize in creating AI-driven solutions that push the boundaries of what's possible.
