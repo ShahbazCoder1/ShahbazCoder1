@@ -1,21 +1,102 @@
-# 💫 About Me:
-Hi, I'm Shahbaz. 👋<br>Most profiles here are highlight reels. This is a reality check.<br>If you're a recruiter, here are 4 reasons why I might be a "risky" hire and why you should take the bet anyway.<br><br>1. I'm not a smooth talker.<br>I pause, I rethink, and sometimes I'm just better at explaining things in Hindi.<br><br>The Flip Side: I don't hide behind jargon. I value clarity over fancy vocabulary. It's how I grew a YouTube channel to 4,000+ subscribers and led my team to the Smart India Hackathon Grand Finale. I might struggle with polished language, but never the message.<br><br>2. I have a distraction problem: Robotics.<br>I don't just sit at a desk coding; I want to build things that move. I've ranked 5th in India for it.<br><br>The Flip Side: This "distraction" means I understand the full picture: hardware, software, and real-world chaos. I don't just write code; I make it work in the physical world.<br><br>3. I'm addicted to AI tools.<br>I realized handwriting every bracket was ego, not efficiency. AI helped me build E-Pustakaalay and vibekode.studio in half the time.<br><br>The Flip Side: I'm not a syntax memorizer; I'm a problem solver. I use every tool available to ship products fast. I'm constantly sharpening my fundamentals, but I won't apologize for being efficient.<br><br>4. I overthink everything.<br>I stare at problem statements longer than most people. It kills my speed.<br><br>The Flip Side: I catch the bugs that "fast" developers miss. I care deeply about the user experience, even the parts no one else sees.<br><br>The Verdict?<br><br>I'm a 2nd-year CSE student who's still learning, still improving, but already shipping real projects.<br>If you want a developer who perfectly memorizes the textbook, I'm not him.<br><br>But if you want someone who's obsessed with building, fixing, and solving, let's talk.
+# Hi, I'm Shahbaz 👋
 
+**2nd Year CSE Student | Robotics Enthusiast | Problem Solver**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahbaz-hashmi-ansari/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@roboatticLab) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShahbazCoder1&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShahbazCoder1&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahbazCoder1&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShahbazCoder1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I don't write perfect code. I write code that works in the real world.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShahbazCoder1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Building
+
+**Current Projects:**
+- **E-Pustakaalay** - Digital library platform solving real access problems
+- **vibekode.studio** - Development studio for rapid prototyping
+- **YouTube Channel** - Teaching robotics & development
+
+**Notable Achievements:**
+- 🏆 Smart India Hackathon Grand Finale Team Lead
+- 🤖 Ranked 5th in India for Coding
+- 📹 Grew YouTube to 4K+ subscribers sharing real developer insights
+
+---
+
+## 💭 The Unfiltered Truth
+
+Most profiles here are highlight reels. Here's the reality check:
+
+**I'm not a smooth talker.**  
+I pause, I rethink, sometimes I explain better in Hindi. But I don't hide behind jargon. I value clarity over fancy vocabulary. My channel growth and hackathon leadership prove I can communicate what matters.
+
+**I have a distraction problem: Robotics.**  
+I don't just sit at a desk coding—I build things that move. This "distraction" means I understand the full stack: hardware, software, and real-world chaos. I write code that survives outside the IDE.
+
+**I'm addicted to AI tools.**  
+I realized handwriting every bracket was ego, not efficiency. AI helped me ship E-Pustakaalay and vibekode.studio in half the time. I'm not a syntax memorizer; I'm a problem solver who uses every tool available.
+
+**I overthink everything.**  
+I stare at problem statements longer than most. It kills my speed, but I catch bugs "fast" developers miss. I care deeply about user experience, even the parts no one sees.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=red)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss)
+
+
+**Robotics & Hardware:**  
+![ROS](https://img.shields.io/badge/ROS-0d1117?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=red)
+
+
+**Tools & Platforms:**  
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render)
+
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahbazCoder1&theme=gruvbox&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahbazCoder1&theme=gruvbox&v=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahbazCoder1&theme=gruvbox&layout=compact" />
+</p>
+
+
+---
+
+## 🤝 Let's Connect
+
+**For Recruiters:** If you want a developer who perfectly memorizes the textbook, I'm not your person. But if you want someone obsessed with building, fixing, and solving real problems—let's talk.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahbaz-hashmi-ansari/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@roboatticLab)
+
+---
+
+<sub>💡 **Philosophy:** Ship fast, learn faster. Perfect code is the enemy of working code.</sub>
+
+![Profile Viewers](https://komarev.com/ghpvc/?username=shahbazcoder1&label=Profile%20views&color=0e75b6&style=flat)
