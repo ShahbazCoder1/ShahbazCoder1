@@ -312,10 +312,29 @@ def force_close_file(data, cache_comment):
 
 def stars_counter(data):
     """
-    Count total stars in repositories owned by me
+    Count total stars in repositories owned by me.
+
+    GitHub can occasionally return an edge with a null repository node
+    (for example, if a repository was deleted, transferred, or is no
+    longer accessible to the token). Skip those entries instead of
+    crashing the entire README build.
     """
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+
+    for edge in data or []:
+        if not edge or not isinstance(edge, dict):
+            continue
+
+        repo = edge.get('node')
+        if not repo or not isinstance(repo, dict):
+            continue
+
+        stargazers = repo.get('stargazers')
+        if not stargazers or not isinstance(stargazers, dict):
+            continue
+
+        total_stars += stargazers.get('totalCount', 0) or 0
+
     return total_stars
 
 
